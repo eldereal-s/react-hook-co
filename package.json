@@ -1,0 +1,27 @@
+{
+  "name": "react-hook-co",
+  "version": "0.0.1",
+  "description": "A simple and elegant way to handle asynchrony in react hooks",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldereal/react-hook-co.git"
+  },
+  "keywords": [
+    "react",
+    "async",
+    "hook"
+  ],
+  "author": "eldereal@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldereal/react-hook-co/issues"
+  },
+  "homepage": "https://github.com/eldereal/react-hook-co#readme"
+}
